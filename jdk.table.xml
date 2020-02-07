@@ -1,0 +1,167 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (python-eat-catalog)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/Documents/code/python-eat-catalog/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/python-eat-catalog/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/code/python-eat-catalog/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/python-eat-catalog/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.2/python_stubs/-1895438581" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/code/python-eat-catalog" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (freqtrade)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/Documents/code/freqtrade/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.5/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/freqtrade/.env/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.2/python_stubs/617143238" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/code/freqtrade" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (venv1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="$USER_HOME$/Documents/code/python-eat-catalog/venv1/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/python-eat-catalog/venv1/lib/python3.8/site-packages" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/924293066" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (python-selenium-tests)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="$USER_HOME$/Documents/code/python-selenium-tests/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/python-selenium-tests/venv/lib/python3.8/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/code/python-selenium-tests/venv/lib/python3.8/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/python-selenium-tests/venv/lib/python3.8/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-164586843" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/code/python-selenium-tests" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (EndUserTests)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="$USER_HOME$/Documents/code/EndUserTests/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.8/3.8.1/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/EndUserTests/venv/lib/python3.8/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Documents/code/EndUserTests/venv/lib/python3.8/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Documents/code/EndUserTests/venv/lib/python3.8/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1946628787" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/code/EndUserTests" />
+    </jdk>
+  </component>
+</application>
