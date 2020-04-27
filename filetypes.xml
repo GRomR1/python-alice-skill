@@ -7,8 +7,8 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="enabled_plugins" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
-      <mapping ext="rabbit" type="PLAIN_TEXT" />
       <mapping ext="dbmate" type="PLAIN_TEXT" />
+      <mapping ext="rabbit" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
